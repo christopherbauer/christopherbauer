@@ -1,26 +1,15 @@
 ## Hi there 👋
 
-<table >
-     <tr>
-        <td><b>Latest Tweets</b></td>
-        <td><b>daily.dev</b></td>
-     </tr>
-     <tr>
-         <td>![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@christopherbauer)</td>
-        <td>
-          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherbauer&layout=compact)
-  
-          ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=christopherbauer&theme=onedark)
-          
-          ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=christopherbauer&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-          
-          ![GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherbauer&show_icons=true&theme=onedark)
-        </td>
-     </tr>
-    </table>
-    </div>
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christopherbauer)
 
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherbauer&layout=compact)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=christopherbauer&theme=onedark)
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=christopherbauer&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherbauer&show_icons=true&theme=onedark)
+
 
 
 <!--
