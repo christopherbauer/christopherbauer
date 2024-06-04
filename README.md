@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christopherbauer)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@christopherbauer)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherbauer&layout=compact)
 
