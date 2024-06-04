@@ -1,6 +1,7 @@
 ## Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=christopherbauer&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherbauer&layout=compact)
 
-[![Christopher Bauer's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christopherbauer)]
 
 <!--
 **christopherbauer/christopherbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
